@@ -1,4 +1,4 @@
-### Hi there 👋 I am ['Apondi Otieno'] (https://www.linkedin.com/mwlite/in/apondi-otieno
+### Hi there 👋 I am ['Apondi Otieno'](https://www.linkedin.com/mwlite/in/apondi-otieno/)
 
 <!--
 **Apondi-Otieno/Apondi-Otieno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
