@@ -7,9 +7,8 @@
 
     AI/ML with Udacity 
     
-.
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 
-   ['email'](apondioti@gmail.com)
+   ['Email'](apondioti@gmail.com)
 
 
