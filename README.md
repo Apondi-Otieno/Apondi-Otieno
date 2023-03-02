@@ -1,16 +1,15 @@
 ### Hi there 👋 I am ['Apondi Otieno'](https://www.linkedin.com/mwlite/in/apondi-otieno/)
 
-<!--
-**Apondi-Otieno/Apondi-Otieno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+- 🌱 I’m currently learning 
+
+    AI/ML with Udacity 
+    
+.
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   ['email'](apondioti@gmail.com)
+
+
