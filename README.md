@@ -5,16 +5,16 @@
 
 - 🌱 I’m currently learning 
 
-  Data Science with Python
-  Time management
-  Self-Discipline
-  Video Editing
+  + Data Science with Python
+  + Time management
+  + Self-Discipline
+  + Video Editing
       
    
 - 📫 How to reach me:
 
-   ['Email'](apondioti@gmail.com)
-   ['Phone'](+254771468966)
-   ['LinkedIn'](https://www.linkedin.com/mwlite/in/apondi-otieno/)
+  + ['Email'](apondioti@gmail.com)
+  + ['Phone'](+254771468966)
+  + ['LinkedIn'](https://www.linkedin.com/mwlite/in/apondi-otieno/)
 
 
